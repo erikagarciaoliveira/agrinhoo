@@ -63,7 +63,11 @@
 display: none;
 
 }
-
 .opcoes{
     display: none;
 }
+@media screen and (min-width: 1024px){
+    .container__titulo{
+        display: block;
+    }
+}  
