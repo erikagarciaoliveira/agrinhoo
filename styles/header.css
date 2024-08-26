@@ -70,4 +70,6 @@ display: none;
     .container__titulo{
         display: block;
     }
+    .opcoes{
+        display:block;
 }  
