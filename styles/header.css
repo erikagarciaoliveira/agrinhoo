@@ -68,8 +68,9 @@ display: none;
 }
 @media (min-width: 1024px){
     .container___titulo{
-        display: block;
+        
         display: flex;
+        display: block;
     }
     .opcoes{
         display:block;
