@@ -67,7 +67,7 @@ display: none;
     display: none;
 }
 @media (min-width: 1024px){
-    .container__titulo{
+    .container___titulo{
         display: block;
     }
     .opcoes{
